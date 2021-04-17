@@ -33,7 +33,6 @@
 ---
 
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=Gabkings&show_icons=true&theme=vue-dark)
-<img src="https://github.com/Gabkings/Gabkings/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
 <!-- Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/> -->
 
 <!--
