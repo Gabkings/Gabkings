@@ -12,7 +12,7 @@
 
 ### Technologies and Tools:
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/python)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
@@ -32,7 +32,7 @@
 
 ---
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=Gabkings&show_icons=true&theme=vue-dark)
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=Gabkings&show_icons=true&theme=vue-dark)
 <!-- Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/> -->
 
 <!--
